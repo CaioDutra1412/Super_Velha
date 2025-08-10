@@ -27,7 +27,7 @@ Os jogadores podem colocar peças em qualquer posição ou mover a janela — ab
 📦 Instalação
 
 Clone este repositório:
-git clone https://github.com/seu-usuario/jogo-da-velha-movel.git
+git clone [https://github.com/seu-usuario/jogo-da-velha-movel.git](https://github.com/CaioDutra1412/Super_Velha.git)
 cd jogo-da-velha-movel
 
 Instale as dependências:
